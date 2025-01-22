@@ -1,0 +1,130 @@
+@font-face {
+    font-family: 'PP Fragment Glare';
+    src: url('PPFragment-GlareRegular.eot');
+    src: url('PPFragment-GlareRegular.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-GlareRegular.woff2') format('woff2'),
+        url('PPFragment-GlareRegular.woff') format('woff'),
+        url('PPFragment-GlareRegular.ttf') format('truetype'),
+        url('PPFragment-GlareRegular.svg#PPFragment-GlareRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fragment Glare';
+    src: url('PPFragment-GlareExtraBold.eot');
+    src: url('PPFragment-GlareExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-GlareExtraBold.woff2') format('woff2'),
+        url('PPFragment-GlareExtraBold.woff') format('woff'),
+        url('PPFragment-GlareExtraBold.ttf') format('truetype'),
+        url('PPFragment-GlareExtraBold.svg#PPFragment-GlareExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fragment Glare';
+    src: url('PPFragment-GlareLight.eot');
+    src: url('PPFragment-GlareLight.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-GlareLight.woff2') format('woff2'),
+        url('PPFragment-GlareLight.woff') format('woff'),
+        url('PPFragment-GlareLight.ttf') format('truetype'),
+        url('PPFragment-GlareLight.svg#PPFragment-GlareLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fragment Sans';
+    src: url('PPFragment-SansExtraBold.eot');
+    src: url('PPFragment-SansExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-SansExtraBold.woff2') format('woff2'),
+        url('PPFragment-SansExtraBold.woff') format('woff'),
+        url('PPFragment-SansExtraBold.ttf') format('truetype'),
+        url('PPFragment-SansExtraBold.svg#PPFragment-SansExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fragment Sans';
+    src: url('PPFragment-SansLight.eot');
+    src: url('PPFragment-SansLight.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-SansLight.woff2') format('woff2'),
+        url('PPFragment-SansLight.woff') format('woff'),
+        url('PPFragment-SansLight.ttf') format('truetype'),
+        url('PPFragment-SansLight.svg#PPFragment-SansLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fragment Text';
+    src: url('PPFragment-TextRegular.eot');
+    src: url('PPFragment-TextRegular.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-TextRegular.woff2') format('woff2'),
+        url('PPFragment-TextRegular.woff') format('woff'),
+        url('PPFragment-TextRegular.ttf') format('truetype'),
+        url('PPFragment-TextRegular.svg#PPFragment-TextRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fragment Sans';
+    src: url('PPFragment-SansRegular.eot');
+    src: url('PPFragment-SansRegular.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-SansRegular.woff2') format('woff2'),
+        url('PPFragment-SansRegular.woff') format('woff'),
+        url('PPFragment-SansRegular.ttf') format('truetype'),
+        url('PPFragment-SansRegular.svg#PPFragment-SansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fragment Serif';
+    src: url('PPFragment-SerifExtraBold.eot');
+    src: url('PPFragment-SerifExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-SerifExtraBold.woff2') format('woff2'),
+        url('PPFragment-SerifExtraBold.woff') format('woff'),
+        url('PPFragment-SerifExtraBold.ttf') format('truetype'),
+        url('PPFragment-SerifExtraBold.svg#PPFragment-SerifExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fragment Serif';
+    src: url('PPFragment-SerifRegular.eot');
+    src: url('PPFragment-SerifRegular.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-SerifRegular.woff2') format('woff2'),
+        url('PPFragment-SerifRegular.woff') format('woff'),
+        url('PPFragment-SerifRegular.ttf') format('truetype'),
+        url('PPFragment-SerifRegular.svg#PPFragment-SerifRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fragment Serif';
+    src: url('PPFragment-SerifLight.eot');
+    src: url('PPFragment-SerifLight.eot?#iefix') format('embedded-opentype'),
+        url('PPFragment-SerifLight.woff2') format('woff2'),
+        url('PPFragment-SerifLight.woff') format('woff'),
+        url('PPFragment-SerifLight.ttf') format('truetype'),
+        url('PPFragment-SerifLight.svg#PPFragment-SerifLight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
