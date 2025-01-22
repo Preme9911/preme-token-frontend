@@ -5230,7 +5230,7 @@
 
   .phase-card {
     min-height: fit-content;
-    padding: 32px;
+    padding: 57px 50px ;
   }
 
   .phase-title {
@@ -5239,9 +5239,10 @@
   }
 
   .phase-text {
-    font-size: 16px;
+    font-size: 14px;
     gap: 0;
     margin-top: 20px;
+    line-height: 30px;
   }
 
   .phase-img {
